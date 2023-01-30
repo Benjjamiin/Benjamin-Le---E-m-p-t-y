@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: #ffffff;
+}
+button {
+  background-color: #ffffff;
+}
+.titlescreen {
+  display: block;
+  text-align:center;
+}
+.promptone {
+  display:none;
+  text-align:center;
+}
+.mallscene {
+  display:none;
+    text-align:center;
+}
+.enddeath {
+  display:none;
+    text-align:center;
+}
+.leavemall {
+  display:none;
+    text-align:center;
+}
